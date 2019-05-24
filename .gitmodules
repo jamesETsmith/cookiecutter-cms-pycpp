@@ -1,0 +1,6 @@
+[submodule "{{cookiecutter.repo_name}}/external/pybind11"]
+	path = {{cookiecutter.repo_name}}/external/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "{{cookiecutter.repo_name}}/external/Catch2"]
+	path = {{cookiecutter.repo_name}}/external/Catch2
+	url = https://github.com/catchorg/Catch2.git
